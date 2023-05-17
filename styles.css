@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.in-out-box{
+    height: 15rem;
+    border: 1px solid black;
+    border-radius: 1em;
+    margin-top: 5rem !important;
+    box-shadow: 0 0 20px 20px purple;
+}
+.input-group{
+    margin-top: 2rem !important;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.display-caption-here{
+    margin-top: 50px;
+    margin-left: 250px;
+}
